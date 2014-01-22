@@ -9,6 +9,9 @@ Import Libs
 * Add  pccom.jar and bluecove.jar to the Eclipse build path
 * In Eclipse menu -->run --> run configurations --> your class --> arguments --> VM arguments add -d32 (if you have x64 Arch.)
 
+* Howto: http://www.lejos.org/nxt/nxj/tutorial/Preliminaries/UsingEclipse.htm
+
+
 Modus Operandi
 ===========
 
